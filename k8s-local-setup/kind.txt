@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=kkW7LNCsK74
+https://earthly.dev/blog/k8s-dev-solutions/
+https://shipit.dev/posts/minikube-vs-kind-vs-k3s.html
+https://kind.sigs.k8s.io/
+https://www.youtube.com/watch?v=C0v5gJSWuSo
