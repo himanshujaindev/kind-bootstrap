@@ -1,0 +1,9 @@
+1. kubectl
+2. hypevisor - VirtualBox (Default) or Docker
+3. minikube
+
+https://kubernetes.io/docs/tasks/tools/#kubectl
+https://kubernetes.io/docs/tasks/tools/#minikube
+
+
+Istio = https://github.com/DickChesterwood/istio-fleetman/tree/master/_course_files
